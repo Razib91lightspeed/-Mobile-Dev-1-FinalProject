@@ -49,6 +49,7 @@ To use the Spoonacular API, you need to obtain an API key. Once you have the key
 
 ```xml
 <string name="api_key">YOUR_API_KEY_HERE</string>
+```xml
 
 ## Author
 Razib Hasan - GitHub
