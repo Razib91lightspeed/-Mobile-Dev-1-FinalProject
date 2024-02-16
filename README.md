@@ -47,10 +47,9 @@ This Android application allows users to discover random recipes, view recipe de
 
 To use the Spoonacular API, you need to obtain an API key. Once you have the key, add it to the `api_key` string resource in `res/values/strings.xml`:
 
-```bash
+```xml
 <string name="api_key">YOUR_API_KEY_HERE</string>
 
-```bash
 
 
 ## Author
