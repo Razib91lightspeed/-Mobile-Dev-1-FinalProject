@@ -50,6 +50,8 @@ To use the Spoonacular API, you need to obtain an API key. Once you have the key
 ```bash
 <string name="api_key">YOUR_API_KEY_HERE</string>
 
+```bash
+
 
 ## Author
 Razib Hasan - GitHub
